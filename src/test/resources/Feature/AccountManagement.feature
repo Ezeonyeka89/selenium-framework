@@ -11,7 +11,7 @@ Feature: Account management
 
     Examples:
       | FirstName | LastName | Email           | Password  | ConfirmPassword |
-      | John      | King     | Life3@gmail.com | 12345@eze | 12345@eze       |
+      | Paul      | Makuo    | Life4@gmail.com | 12345@eze | 12345@eze       |
 
 
   @Accountlogin
@@ -23,4 +23,4 @@ Feature: Account management
 
     Examples:
       | Email           | Password      |
-      | Life3@gmail.com | 12345@eze |
+      | Life4@gmail.com | 12345@eze |
